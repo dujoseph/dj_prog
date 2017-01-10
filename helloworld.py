@@ -1,2 +1,0 @@
-#gitHub
-print("Hello work!")
